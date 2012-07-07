@@ -1,5 +1,8 @@
 *.py[co]
 
+venv
+*.pyc
+
 # Packages
 *.egg
 *.egg-info
